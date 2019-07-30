@@ -1,0 +1,41 @@
+.signin-message {
+   
+    min-width: 100%;
+    min-height: 15em;
+    position: relative;
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 110%;
+}
+
+.signin-title {
+    font-size: 2em;
+    margin: 3% 0;
+    text-transform: uppercase;
+	width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.signinFields{
+    color: #080808;
+    font-weight: 100;
+    text-align: left;
+    width: 40%;
+    margin-left: 30%;
+}
+
+#errorDanger{
+    text-align: left;
+    width: 40%;
+    margin-left: 30%;
+    color: orangered;
+    font-weight: 800;
+    padding: 1em;
+}
+
+.update_icon{
+    position: relative;
+}
+
+
